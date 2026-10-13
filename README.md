@@ -1,0 +1,4 @@
+- Contains All Data mining assignments given
+- download and create a virtual environment using packages from requirements.txt
+- activate venv
+- run the files
